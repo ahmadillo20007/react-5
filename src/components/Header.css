@@ -1,0 +1,72 @@
+
+.nav{
+    background-image: url(/src/assents/img/back.jpg);
+    background-size: cover;
+
+}
+
+.nav__list{
+    color: white;
+    display: flex;
+    width: 460px;
+    padding-top: 50px;
+    border: 1px solid #000;
+    margin-left: 200px;
+justify-content: space-between;
+}
+.nav__list__item{
+    color: white;
+    list-style-type: none;
+}
+.nav__text{
+    font-family: 'Lighthaus';
+font-style: normal;
+font-weight: 400;
+font-size: 100px;
+line-height: 74.9%;
+color: #FFFFFF;
+margin-top: 149px;
+margin-left: 201px;
+}
+.nav__item{
+    font-family: 'Mont';
+font-style: normal;
+font-weight: 800;
+font-size: 50px;
+line-height: 96.4%;
+color: #FFFFFF;
+margin-left: 201px;
+margin-top: 100px;
+}
+.nav__text__item{
+    font-family: 'Mont';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 96.4%;
+color: #FFFFFF;
+margin-top: 40px;
+margin-left: 201px;
+}
+.nav__text__cost{
+    font-family: 'Mont';
+font-style: normal;
+font-weight: 800;
+font-size: 30px;
+line-height: 96.4%;
+color: #FFFFFF;
+margin-top: 40px;
+margin-left: 121px;
+}
+.cost{
+    display: flex;
+}
+.nav__btn{
+    
+background: linear-gradient(92.18deg, #5E3928 20.13%, #E4A16F 92.93%);
+width: 327px;
+height: 50px;
+margin-top: 41px;
+margin-left: 201px;
+
+}
